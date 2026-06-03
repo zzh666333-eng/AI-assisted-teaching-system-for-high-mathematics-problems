@@ -2,7 +2,7 @@
 
 AI-driven calculus practice and audit system for problem generation, handwritten answer review, and adaptive learning support.
 
-![T2P Mentor Home](assets/screenshots/home.png)
+![T2P Mentor Home](./screenshots/home.png)
 
 ## Overview
 
@@ -28,13 +28,13 @@ Students can choose the knowledge dimension, practice mode, difficulty level, an
 
 The system accepts handwritten work as an image, then sends it through the multimodal audit pipeline.
 
-![Photo upload and audit](assets/screenshots/upload-audit.png)
+![Recognition](./screenshots/recognition.png)
 
 ### AI audit report
 
 After analysis, T2P Mentor returns a structured report including correctness, logical alignment score, error analysis, tutor feedback, and next-step guidance.
 
-![AI audit report](assets/screenshots/report.png)
+![Review](./screenshots/review.png)
 
 ## Key Features
 
