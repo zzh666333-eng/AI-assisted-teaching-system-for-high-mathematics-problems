@@ -22,7 +22,7 @@ The project currently includes:
 
 Students can choose the knowledge dimension, practice mode, difficulty level, and question type before generating a problem.
 
-![Main workspace](assets/screenshots/home.png)
+![T2P Mentor Home](./screenshots/home.png)
 
 ### Photo upload and audit
 
